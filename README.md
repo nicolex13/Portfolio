@@ -9,7 +9,7 @@ This repository contains descriptions of some projects I’ve worked on.
 
 ### Shell – Feb 2025
 A custom shell implemented in C with core Unix-like features
-- Developed a custom tokenizer to parse user input into tokens  
+- Developed a tokenizer to parse user input into tokens  
 - Implemented command execution, input/output redirection, and command sequencing  
 - Supported built-in commands such as `cd`, `source`, `prev`, `help`, and `exit`  
 
@@ -29,9 +29,8 @@ Java-based project to manage and evaluate stock portfolios
 
 ### Minesweeper – Mar 2024
 Minesweeper game built in Java
-- Implemented core gameplay: users clear tiles while avoiding hidden bombs  
+- Implemented core gameplay where users clear tiles while avoiding hidden bombs  
 - Designed multiple difficulty settings that adjust grid size and bomb count  
-- Enhanced user experience with a responsive game loop and win/loss detection  
 
 **Skills:** Java, GUI Programming, Game Logic  
 
